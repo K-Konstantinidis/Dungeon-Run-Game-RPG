@@ -19,4 +19,6 @@ Also every time you kill an enemy, you get a chance to find a healing potion. If
 
 You can end the game bu either exiting the dungeon or dying while fighting.
 
+Here is a link to download and try the game: https://drive.google.com/file/d/1tJhluPegbxUkJaG4BN3xhYTm15ASHbUq/view
+
 For more information about how the code works, there are lots of comments in the .java files to help you understand everything and follow along with ease!
