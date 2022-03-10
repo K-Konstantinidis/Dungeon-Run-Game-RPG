@@ -25,14 +25,18 @@ For more information about how the code works, there are lots of comments in the
 
 Here are some images from the game: 
 
-![Code image](Images/eg1.png)
+![Code image](Images/Game.png)
 
-![Code image](Images/eg1.png)
+![Code image](Images/Game1.png)
 
-![Code image](Images/eg1.png)
+![Code image](Images/Game2.png)
 
-![Code image](Images/eg1.png)
+![Code image](Images/Game3.png)
 
-![Code image](Images/eg1.png)
+![Code image](Images/Game4.png)
 
-![Code image](Images/eg1.png)
+![Code image](Images/Game5.png)
+
+![Code image](Images/Game6.png)
+
+![Code image](Images/Game7.png)
