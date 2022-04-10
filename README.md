@@ -19,24 +19,22 @@ Also every time you kill an enemy, you get a chance to find a healing potion. If
 
 You can end the game bu either exiting the dungeon or dying while fighting.
 
-Here is a link to download and try the game: https://drive.google.com/file/d/1tJhluPegbxUkJaG4BN3xhYTm15ASHbUq/view
+<a href="https://drive.google.com/file/d/1tJhluPegbxUkJaG4BN3xhYTm15ASHbUq/view">Download Link</a> to play the game:
+```
+https://drive.google.com/file/d/1tJhluPegbxUkJaG4BN3xhYTm15ASHbUq/view 
+```
 
-For more information about how the code works, there are lots of comments in the .java files to help you understand everything and follow along with ease!
+## Game Images
+###### Game start screen
+<img src = "Images/Game.png" width = 350px>
 
-Here are some images from the game: 
+###### In game screenshots
+<img src = "Images/Game1.png" width = 350px><img src = "Images/Game2.png" width = 350px>
 
-![Code image](Images/Game.png)
+###### Some of the given choices
+<img src = "Images/Game3.png" width = 350px><img src = "Images/Game4.png" width = 350px>
 
-![Code image](Images/Game1.png)
+<img src = "Images/Game5.png" width = 350px><img src = "Images/Game6.png" width = 350px>
 
-![Code image](Images/Game2.png)
-
-![Code image](Images/Game3.png)
-
-![Code image](Images/Game4.png)
-
-![Code image](Images/Game5.png)
-
-![Code image](Images/Game6.png)
-
-![Code image](Images/Game7.png)
+###### Ending Screen
+<img src = "Images/Game7.png" width = 350px>
