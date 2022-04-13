@@ -1,23 +1,27 @@
-# Dungeon-Run-Game
-A Java project for a text based dungeon run game with UI and sounds.
+# Dungeon-Run-Game-RPG
+## Introduction
 
-This is a Java project. After you run the Main class, then you will be able to play a dungeon run in the frame that will appear. 
+###### There are:
+- 3 Classes to choose from:
+  - Warrior
+  - Archer
+  - Mage
+- 4 Different types of enemies:
+  - Skeletons
+  - Zombies
+  - Assassins
+  - Ancient Dragons 
 
-There are 3 different classes to chose from: Warrior, Archer and Mage.
+*Each character class, comes with a different buff:*
 
-There are also 4 different options for enemies to appear: Skeleton, Zombie, Assassin and Ancient Dragon. 
+__Archer:__
+```A chance to deal more damage```
 
-Each character class, has its own buff. As an Archer there is a chance to deal more damage, as a Warrion there is a chance to take less damage and as a Mage, there is a bigger chance to find healing potions.
+__Warrior:__
+```A chance to take less damage```
 
-The enemies appear randomly every time, and except the ancient dragon, all the others have random hp. 
-
-After choosing your character, you will get 3 free healing potions. 
-
-In every fight, you have 3 options: Attack, Drink healing potion or Run from the enemy. After fleeing successfully or killing the enemy, you get to choose between continuing fighting in the dungeon or exiting the dungeon. 
-
-Also every time you kill an enemy, you get a chance to find a healing potion. If the enemy is a dragon, then you get a potion 100%.
-
-You can end the game bu either exiting the dungeon or dying while fighting.
+__Mage:__
+```A chance to find more healing potions```
 
 <a href="https://drive.google.com/file/d/1tJhluPegbxUkJaG4BN3xhYTm15ASHbUq/view">Download Link</a> to play the game:
 ```
@@ -38,3 +42,20 @@ https://drive.google.com/file/d/1tJhluPegbxUkJaG4BN3xhYTm15ASHbUq/view
 
 ###### Ending Screen
 <img src = "Images/Game7.png" width = 350px>
+
+## Game Basics
+
+The enemies appear randomly every time and except the ancient dragon, all the other enemies have random hp. 
+
+After choosing your character, you will get __3__ free healing potions. 
+
+Every time you fight, you have 3 options: 
+- Attack
+- Drink a healing potion 
+- Run from the enemy. 
+
+After ```fleeing successfully``` or ```killing the enemy```, you get to choose between ```continuing fighting``` in the dungeon or ```exiting``` the dungeon. 
+
+Also every time you kill an enemy, there is a chance to find a healing potion. If the enemy was a dragon, then you will get a potion 100%.
+
+You can __end__ the game by either exiting the dungeon or dying while fighting.
